@@ -47,14 +47,12 @@ Respostas muito genéricas e mal estruturadas: Por utilizar de um prompt superfi
 
 ### Miniguia de Estudo - O que é Malware
 
-O que é Malware?
+### O que é Malware?
 **Malware** é uma abreviação de **"malicious software"** (software malicioso). Refere-se a qualquer programa ou código de computador projetado intencionalmente para causar **danos**, interrupções em sistemas, roubo de informações privadas ou obtenção de **acesso não autorizado** a redes e dispositivos. 
 
 É importante distinguir que, tecnicamente, **vírus e malware não são a mesma coisa**: "malware" é o termo genérico que engloba todas as ameaças, enquanto o "vírus" é apenas um tipo específico de malware capaz de se replicar.
 
----
-
-Principais Tipos de Malware
+### Principais Tipos de Malware
 Os malwares são classificados de acordo com seu comportamento e objetivo:
 
 *   **Vírus:** Programa que se anexa a arquivos ou softwares legítimos e precisa da **ação do usuário** (como executar um arquivo) para se propagar.
@@ -66,9 +64,7 @@ Os malwares são classificados de acordo com seu comportamento e objetivo:
 *   **Rootkits:** Conjunto de ferramentas que permite ao invasor manter privilégios de administrador enquanto **esconde sua presença** do sistema operacional e de softwares de segurança.
 *   **Botnets:** Redes de computadores infectados (chamados de "zumbis") que são controlados remotamente para realizar ataques de larga escala, como o envio de spam ou ataques DDoS.
 
----
-
-Formas de Infecção
+### Formas de Infecção
 O malware utiliza diversos vetores para penetrar nos sistemas:
 
 *   **E-mail:** É o principal método de entrega (cerca de **96% das infecções** mundiais), ocorrendo através de anexos maliciosos ou links de **phishing**.
@@ -77,9 +73,7 @@ O malware utiliza diversos vetores para penetrar nos sistemas:
 *   **Vulnerabilidades de Software:** Exploração de falhas (bugs) em sistemas operacionais ou aplicativos desatualizados para contornar defesas.
 *   **Engenharia Social:** Táticas psicológicas para enganar o usuário e levá-lo a clicar em links suspeitos em redes sociais, mensagens de texto (SMS) ou mensageiros.
 
----
-
-Como Identificar uma Infecção (Sinais de Alerta)
+### Como Identificar uma Infecção (Sinais de Alerta)
 Alguns sintomas comuns de que um dispositivo pode estar infectado incluem:
 *   **Lentidão extrema** e travamentos frequentes.
 *   Aparecimento de **pop-ups** e anúncios indesejados.
@@ -87,9 +81,7 @@ Alguns sintomas comuns de que um dispositivo pode estar infectado incluem:
 *   Alterações nas configurações do navegador (nova página inicial ou barras de ferramentas estranhas).
 *   Aumento no consumo de bateria e de dados móveis (especialmente em celulares).
 
----
-
-Ações para Evitar e Prevenir Problemas
+### Ações para Evitar e Prevenir Problemas
 A prevenção é baseada em uma combinação de tecnologia e comportamento seguro:
 
 *   **Instale um Antivírus/Antimalware:** Utilize soluções confiáveis que ofereçam **proteção em tempo real** e realize varreduras regulares.
