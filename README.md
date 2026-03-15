@@ -2,59 +2,59 @@
 
 ### Tema: Tipos de Malwares e como evita-los.
 
-# Objetivo: 
+### Objetivo: 
 Conseguir compreender como funciona os Malwares, a forma como infecta os dispositivos eletrônicos e de como é possivel se proteger de tais ameaças.
 
-# Links utilizados no NotebookLM:
+### Links utilizados no NotebookLM:
 - https://www.avast.com/pt-br/c-malware
 - https://pt.wikipedia.org/wiki/Malware
 - https://www.malwarebytes.com/pt/malware
 - https://www.techtudo.com.br/listas/2021/03/o-que-e-malware-veja-significado-tipos-e-saiba-remover.ghtml
 - https://nsfocusglobal.com/pt-br/o-que-e-malware/
 
-# Primeira tentativa de prompt:
+### Primeira tentativa de prompt:
 
-# Prompt utilizado:
+### Prompt utilizado:
 "Explique o que é um malware."
 
-# Resposta obtida: 
+### Resposta obtida: 
 O NotebookLM trouxe uma explicação geral sobre o que é um malware, mecionando os tipos que se encontra, a forma de infecção e sinais de alerta junto a formas de se prevenir.
 
-# Problema identificado:
+### Problema identificado:
 - Respota extensa demais, apresentando os conceitos de forma generica.
 - Sem aprofudamento no assunto.
 
-# Cicatriz identificada:
+### Cicatriz identificada:
 O prompt aplicado foi muito simples, o que fez o resultado ser uma resposta superficial.
 
-# Segunda tentativa de prompt:
+### Segunda tentativa de prompt:
 
-# Prompt utilizado: 
+### Prompt utilizado: 
 "Organize a explicação sobre o que é malware em tópicos, separando a definição, formas de infecção e principais exemplos."
 
-# Resposta obtida: 
+### Resposta obtida: 
 O NotebookLM trouxe uma explicação bem mais organizada e coerente. Sendo assim, possuindo uma estrutura melhor para estudo e informações mais claras.
 
-# Conclusão do processo:
+### Conclusão do processo:
 Foi possível observar que a qualidade da resposta apresentada pelo NotebookLM depende diretamente da clarez e especificidade do prompt utilizado.
 
-# Troubleshooting (Dificuldade Encontradas):
+### Troubleshooting (Dificuldade Encontradas):
 Durante a interação com o NotebookLM foram identificadas algumas dificuldades no processo, como:
 
 Excesso de Infomação: Algumas respostas eram muito longas, dificultando a transformação em material de estudo. A solução, foi organizar o assunto em tópicos.
 
 Respostas muito genéricas e mal estruturadas: Por utilizar de um prompt superficial, ocorreu que a resposta dada foi bem generica, além de algumas respostas vieram em blocos grandes de texto. Para poder corrigir isso, foi feito uma especificação melhor da pergunta e uma organização do texto em tópicos.
 
-# Miniguia de Estudo - O que é Malware
+### Miniguia de Estudo - O que é Malware
 
-1. O que é Malware?
+O que é Malware?
 **Malware** é uma abreviação de **"malicious software"** (software malicioso). Refere-se a qualquer programa ou código de computador projetado intencionalmente para causar **danos**, interrupções em sistemas, roubo de informações privadas ou obtenção de **acesso não autorizado** a redes e dispositivos. 
 
 É importante distinguir que, tecnicamente, **vírus e malware não são a mesma coisa**: "malware" é o termo genérico que engloba todas as ameaças, enquanto o "vírus" é apenas um tipo específico de malware capaz de se replicar.
 
 ---
 
-# 2. Principais Tipos de Malware
+Principais Tipos de Malware
 Os malwares são classificados de acordo com seu comportamento e objetivo:
 
 *   **Vírus:** Programa que se anexa a arquivos ou softwares legítimos e precisa da **ação do usuário** (como executar um arquivo) para se propagar.
@@ -68,7 +68,7 @@ Os malwares são classificados de acordo com seu comportamento e objetivo:
 
 ---
 
-# 3. Formas de Infecção
+Formas de Infecção
 O malware utiliza diversos vetores para penetrar nos sistemas:
 
 *   **E-mail:** É o principal método de entrega (cerca de **96% das infecções** mundiais), ocorrendo através de anexos maliciosos ou links de **phishing**.
@@ -79,7 +79,7 @@ O malware utiliza diversos vetores para penetrar nos sistemas:
 
 ---
 
-# 4. Como Identificar uma Infecção (Sinais de Alerta)
+Como Identificar uma Infecção (Sinais de Alerta)
 Alguns sintomas comuns de que um dispositivo pode estar infectado incluem:
 *   **Lentidão extrema** e travamentos frequentes.
 *   Aparecimento de **pop-ups** e anúncios indesejados.
@@ -89,7 +89,7 @@ Alguns sintomas comuns de que um dispositivo pode estar infectado incluem:
 
 ---
 
-# 5. Ações para Evitar e Prevenir Problemas
+Ações para Evitar e Prevenir Problemas
 A prevenção é baseada em uma combinação de tecnologia e comportamento seguro:
 
 *   **Instale um Antivírus/Antimalware:** Utilize soluções confiáveis que ofereçam **proteção em tempo real** e realize varreduras regulares.
@@ -99,7 +99,7 @@ A prevenção é baseada em uma combinação de tecnologia e comportamento segur
 *   **Realize Backups Regulares:** Mantenha cópias de segurança dos seus arquivos importantes em locais seguros (como na nuvem ou HDs externos desconectados) para mitigar o impacto de um possível ataque de ransomware.
 *   **Baixe apenas de Fontes Oficiais:** Utilize apenas lojas oficiais (como Google Play e App Store) e evite baixar softwares de sites piratas ou redes P2P.
 
-# Glossário de Conceitos
+### Glossário de Conceitos
 
 Malware:
 Software malicioso desenvolvido para prejudicar sistemas ou roubar informações.
@@ -122,7 +122,7 @@ Software que coleta informações do usuário sem autorização.
 Engenharia Social:
 Técnicas utilizadas para manipular pessoas e levá-las a executar ações que comprometem a segurança.
 
-# Conjunto de Prompts Reutilizáveis
+### Conjunto de Prompts Reutilizáveis
 
 Esses prompts podem ser reutilizados para futuras revisões sobre o tema.
 
